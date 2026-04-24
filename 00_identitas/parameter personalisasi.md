@@ -1,10 +1,19 @@
-Nama: Anjaanie Mafaaza Sahilah  
-NIM: 2510514023  
-Perhitungan Parameter
-1. Menentukan N (dua digit terakhir NIM)
+# Parameter Personalisasi
+
+**Nama:** Anjaanie Mafaaza Sahilah  
+**NIM:** 2510514023  
+
+---
+
+## Perhitungan Parameter
+
+### 1. Menentukan N (dua digit terakhir NIM)
 N = 2510514023 mod 100  
-N = 23
-2. Menentukan a (digit puluhan dari N)
+N = 23  
+
+---
+
+### 2. Menentukan a (digit puluhan dari N)
 a = floor(N / 10)  
 a = floor(23 / 10)  
 a = 2  
